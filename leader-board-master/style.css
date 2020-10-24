@@ -1,0 +1,29 @@
+.navbar img{
+    width: 40px;
+}
+body{
+    background-color: rgb(209, 205, 205);
+}
+main{
+    max-width: 870px;
+}
+.player img{
+    width: 56px;
+}
+.top-player{
+    background-color: #FFFFFF;
+
+}
+.blog img{
+    
+    width: 177px;
+    height: 117px;
+}
+h3{ color: #4c3c92;
+}
+.card{
+    background-color: #FFFFFF;
+
+}
+
+
